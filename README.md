@@ -117,7 +117,6 @@ Passionate about building intelligent solutions through data science, machine le
 - **LinkedIn:** [linkedin.com/in/tushkr3](https://www.linkedin.com/in/tushkr3/)
 - **GitHub:** [github.com/tushkr3](https://github.com/tushkr3)
 - **Email:** kr.tushar21@gmail.com
-- **Phone:** +91 9801394387
 
 ---
 
