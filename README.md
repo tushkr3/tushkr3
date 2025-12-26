@@ -1,6 +1,6 @@
 ﻿# 👋 Hi there! I'm Tushar Kumar
 
-## 📊 Data Science & Software Developer | MCA Student at BITS Mesra
+## 📊 Data Science & Software Developer | MCA Student at Birla Institute of Technology Mesra
 
 Passionate about building intelligent solutions through data science, machine learning, and software development. Currently pursuing MCA at Birla Institute of Technology, Mesra, with a strong foundation in Statistics.
 
