@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Data Science Engineer | Full-Stack Developer | ML Enthusiast
+### Data Scientist | Full-Stack Developer | ML Enthusiast
 **Building intelligent systems that solve real-world problems**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
