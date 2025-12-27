@@ -1,8 +1,24 @@
-﻿# 👋 Hi there! I'm Tushar Kumar
+# 👋 Tushar Kumar
 
-## 📊 Data Science & Software Developer | MCA Student at Birla Institute of Technology Mesra
+<div align="center">
 
-Passionate about building intelligent solutions through data science, machine learning, and software development. Currently pursuing MCA at Birla Institute of Technology, Mesra, with a strong foundation in Statistics.
+### Data Science Engineer | Full-Stack Developer | ML Enthusiast
+**Building intelligent systems that solve real-world problems**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00A4EF?style=for-the-badge&logoColor=white)
+
+[LinkedIn](https://www.linkedin.com/in/tushkr3/) • [GitHub](https://github.com/tushkr3) • [Email](mailto:kr.tushar21@gmail.com)
+
+</div>
+
+---
+
+## 🎯 About Me
+
+Data Science Software Developer with expertise in building end-to-end ML solutions and full-stack applications. Currently pursuing MCA at **Birla Institute of Technology, Mesra** with a strong foundation in Statistics. Qualified **GATE 2024** (Data Science & AI). Passionate about leveraging AI/ML to solve complex real-world problems through intelligent systems and data-driven decision making.
 
 ---
 
@@ -60,45 +76,36 @@ Passionate about building intelligent solutions through data science, machine le
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Academic Activities
 
-**Master of Computer Applications (MCA)**
-- Birla Institute of Technology, Mesra
-- Aug 2024 – Jun 2026 (Expected)
-- CGPA: 7.37
+**Master of Computer Applications (MCA)**  
+Birla Institute of Technology, Mesra  
+Aug 2024 – Jun 2026 (Expected)  
+CGPA: 7.37  
 
-**Bachelor of Science in Statistics**
-- St. Xavier's College, Ranchi
-- Jul 2019 – Jul 2022
-- CGPA: 6.94
+- Relevant Coursework: Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, Big Data Analytics (Hadoop, Apache Spark), Cloud Computing, Cyber Security  
+- Academic Focus: Software development, data engineering, and applied machine learning  
 
----
+**Bachelor of Science in Statistics**  
+St. Xavier's College, Ranchi  
+Jul 2019 – Jul 2022  
+CGPA: 6.94  
 
-## 🏆 Achievements & Certifications
+- Relevant Coursework: Probability & Distribution Theory, Regression Analysis, Linear Algebra, Hypothesis Testing, A/B Testing  
+- Strong foundation in statistical modeling and data analysis  
 
-- **GATE 2024** – Data Science & AI (Qualified)
+**Academic Achievements & Curriculum Activities**
+- Qualified **GATE 2024 – Data Science & Artificial Intelligence (DS & AI)**  
+- Oracle Cloud Infrastructure 2025 Certified Data Science Professional  
+- Member, Google Developer Group (GDG), Ranchi  
+- Core Member, BITOTSAV (Annual Technical & Cultural Fest, BIT Mesra)
 
 ---
 
 ## 💼 Current Role
 
 **MCA Student | Data Science Software & Development**
-- Actively seeking roles in: SDE / Data Scientist / Data Analyst / ML-leaning positions
-
----
-
-## 🏢 Internship Experience
-
-### Software Development Intern – Uddeshya Incorporation
-**Oct 2024 – Jan 2025**
-- Worked on a MERN-based career guidance platform with role-based access
-- Developed backend APIs, database logic, and frontend features
-- Fixed production bugs, tested end-to-end flows, and supported deployments
-
-### Intern – FEV India (Computer Vision, ML)
-**May 2025 – Aug 2025**
-- Built a real-time lane change detection system using OpenCV and YOLO
-- Improved detection reliability and reduced false positives through model tuning
+- Actively seeking roles in: Data Scientist / Data Analyst / SDE / ML-leaning positions
 
 ---
 
@@ -106,13 +113,32 @@ Passionate about building intelligent solutions through data science, machine le
 
 | Project | Description | Live Demo |
 | ------- | ----------- | --------- |
-| **Blood Donor & Alert System** | Full-stack MERN system with real-time alerts, geospatial donor matching, and hospital–donor coordination. Implemented JWT-based role access, MongoDB geospatial queries, WebSocket updates, role-based dashboards, and Docker deployment. | [Live](https://blooddonerconn-frontend.onrender.com/) |
-| **Sarkari Saathi – Voice-based AI System** | Hindi voice-based AI system to help users discover applicable government schemes. Designed eligibility logic using structured attributes and rule-based filtering. Implemented parsing, fuzzy matching, vector embeddings, and LLM-based grounded responses. | [Live](https://sarkari-scheme-saathi.vercel.app/) |
-| **SafeZone Alert System** | Real-time NLP system to detect and score risk events from news data. Implemented entity extraction, incident classification, and geospatial visualization using React & Leaflet. | [Live](https://safe-zone-detection-system-m8dm.vercel.app/) |
+| **Sarkari Saathi – Voice-based AI System** | Hindi voice-based AI system to help users discover applicable government schemes. Designed rule-based eligibility logic using structured attributes and implemented parsing, fuzzy matching, vector embeddings, and LLM-based grounded responses. | [Live](https://sarkari-scheme-saathi.vercel.app/) |
+| **Blood Donor & Alert System** | Full-stack MERN system with real-time alerts, geospatial donor matching, and hospital–donor coordination. Implemented JWT-based role access, MongoDB geospatial queries, WebSocket updates, role-based dashboards, and Dockerized deployment. | [Live](https://blooddonerconn-frontend.onrender.com/) |
+| **SafeZone Alert System** | Real-time NLP-based risk monitoring system that detects and scores incidents from news data. Implemented entity extraction, incident classification using custom severity algorithm, and geospatial visualization using React and Leaflet. | [Live](https://safe-zone-detection-system-m8dm.vercel.app/) |
 
 ---
 
-## 📫 Let's Connect!
+## 💼 Internship Experience
+
+### Intern – FEV India (Computer Vision & ML)
+**May 2025 – Aug 2025**
+
+Built a real-time lane change detection system using OpenCV and YOLO
+- Improved detection reliability and reduced false positives through model tuning
+- **Skills:** OpenCV, YOLO, Computer Vision, Model Optimization
+
+### Software Development Intern – Uddeshya Incorporation
+**Oct 2024 – Jan 2025**
+
+Worked on a MERN-based career guidance platform with role-based access
+- Developed backend APIs, database logic, and frontend features
+- Fixed production bugs, tested end-to-end flows, and supported deployments
+- **Skills:** MERN Stack, API Development, Debugging, Testing
+
+---
+
+## �📫 Let's Connect!
 
 - **LinkedIn:** [linkedin.com/in/tushkr3](https://www.linkedin.com/in/tushkr3/)
 - **GitHub:** [github.com/tushkr3](https://github.com/tushkr3)
@@ -122,13 +148,9 @@ Passionate about building intelligent solutions through data science, machine le
 
 ## 📊 GitHub Stats & Activity
 
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushkr3&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushkr3&layout=compact&theme=radical&langs_count=10)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tushkr3&theme=radical&hide_border=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tushkr3&theme=radical&column=7&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushkr3&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushkr3&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=tushkr3)
 
 ---
 
